@@ -1,45 +1,35 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Clarity and understanding',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'XforWooCommerce Docs',
+    link: '',
     description: (
       <>
-        Quality documentation enhances comprehension and ensures clear communication of instructions, processes, and information.
+        Choose XforWooCommerce item to start &rarr;
       </>
     ),
   },
   {
-    title: 'Consistency and standardization',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Product Filter',
+    link: '/product-filter',
     description: (
       <>
-        Well-documented procedures establish consistency, enabling smooth workflow, reducing errors, and ensuring adherence to established standards.
-      </>
-    ),
-  },
-  {
-    title: ' Knowledge retention and transfer',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-       Comprehensive documentation preserves institutional knowledge, facilitating seamless knowledge transfer and minimizing the impact of personnel changes.
+        Best and the fastest product filters for any WooCommerce shop. Demos include Fashion/Clothing, Electronics/Technics Store, Car Parts Finder, Green/Healthy Shop and many more!
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({link, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      {/*<div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>*/}
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+      <div className="padding-horiz--md">
+        {link && <h3><Link to={'/docs/category'+link}>{title}</Link></h3>}
+        {link === '' && <h3>{title}</h3>}
         <p>{description}</p>
       </div>
     </div>
