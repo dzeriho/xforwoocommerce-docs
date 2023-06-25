@@ -77,8 +77,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://help.xforwoocommerce.com/',
+            label: 'Back to Help Center',
             position: 'right',
           },
         ],

@@ -25,8 +25,7 @@ To make things work properly follow these next steps.
 
 ## FAQ
 
-:::info
-**Q: Why don I need to set only these terms to the product?**
+### Q: Why don I need to set only these terms to the product?
 
 **A:** The problem here is known, the products are filtered by their added attributes, not variations, so this complex process requires some calculations and only exact matches work. Currently better solution isn't available anywhere to my knowledge, correct me if I'm wrong. Thanks.
-:::
+

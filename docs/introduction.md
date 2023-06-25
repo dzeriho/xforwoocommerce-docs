@@ -36,8 +36,16 @@ Basic installation steps are no different than any other plugin.
 Congratulations! You have successfully installed and activated XforWooCommerce WordPress plugin by uploading it manually.
 
 
-## Installation FAQ
+## FAQ
 
-**Q: Where's my plugin zip archive?**
+### Q: Where's my plugin zip archive?
 
 **A:** Any items you purchase from Envato Market CodeCanyon you can find here https://codecanyon.net/downloads in your CodeCanyon Downloads section. There you can download any plugin archive you've purchased including ours. Make sure you're using the plugin archive, as sometimes you download the complete package and the plugin archive needs to be extracted from it. If you have troubles please use our Help Center here https://help.xforwoocommerce.com/my-support-tickets/.
+
+### Q: Can I contribute to the XforWooCommerce Docs with my own help articles?
+
+**A:** Sure! That's awesome! Please visit our GitHub repository https://github.com/dzeriho/xforwoocommerce-docs and make your contribution. Thanks for getting involved!
+
+### Q: I feel like some help articles are missing?
+
+**A:** Yes, articles are there to be available from the first day. We're adding new ones every once in a while and if you need some topics covered, please do send us an email. You can also use our Help Center and submit your request, our support staff will assist you with XforWooCommerce items.
