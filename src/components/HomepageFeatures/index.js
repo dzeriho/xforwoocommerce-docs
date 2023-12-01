@@ -18,7 +18,7 @@ const FeatureList = [
     link: '/product-filter',
     description: (
       <>
-        Best and the fastest product filters for any WooCommerce shop. Demos include Fashion/Clothing, Electronics/Technics Store, Car Parts Finder, Green/Healthy Shop and many more!
+       The best WooCommerce product filter plugin on the market! 10 years of experience, 30,000+ active users.
       </>
     ),
   },
