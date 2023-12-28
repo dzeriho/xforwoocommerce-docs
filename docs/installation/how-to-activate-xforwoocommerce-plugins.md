@@ -1,10 +1,12 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # How to activate XforWooCommerce plugins?
 
-XforWooCommerce plugins are sold on Envato Market exclusively. Each purchased item on Envato Market, grants the full use on one machine with lifetime updates. Plugin functions don't work if the plugin is not activated.
+XforWooCommerce plugins are sold on Envato Market exclusively. **Each purchased regular license on Envato Market, grants the full use on one machine with lifetime updates and 6 motnhs of support included.**
+
+Plugins don't work if they are not activated.
 
 **Start by logging in to XforWooCommerce Help Center.** [Click here &rarr; Go to XforWooCommerce Help Center](https://help.xforwoocommerce.com/my-support-tickets/)
 
@@ -24,10 +26,12 @@ If you need a plugin license please [Click here &rarr; Go to XforWooCommerce Sto
 :::
 **With the activation key, navigate the plugin settings page.**
 
-1. Click the **Enter key** button
-2. Paste the activation key that you've just created in the input field
-3. Click **Confirm key**
-4. Once confirmed, plugin is activated and ready to use
+1. To access XforWooCommerce plugins settings page from the admin screen navigate **WooCommerce > XforWooCommerce**
+2. If you're registering a standalone plugin from the admin screen navigate **WooCommerce > Settings** and click the tab of the plugin. E.G. **Product Filter**
+3. A welcome message will appear. Click the **Enter key** button
+4. Paste the activation key that you've just created in the input field
+5. Click **Confirm key**
+6. Once confirmed, plugin is activated and ready to use
 
 :::tip
 Need help? Submit your ticket. [Click here &rarr; Go to XforWooCommerce Help Center](https://help.xforwoocommerce.com/my-support-tickets/)
