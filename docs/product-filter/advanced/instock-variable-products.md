@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Variable Products In Stock/Out of Stock
+# Variable products In stock/Out of stock
 
 Product Filter has the ability to filter in stock and out of stock variable products. For this to work, products need to be set out correctly. This guide will explain the basic principles behind it.
 

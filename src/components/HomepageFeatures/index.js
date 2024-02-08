@@ -22,13 +22,22 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Product Badges',
+    link: '/product-badges',
+    description: (
+      <>
+       Product badges for Woo. Make your products stand out with these ultimate badges!
+      </>
+    ),
+  },
 ];
 
 function Feature({link, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="padding-horiz--md">
-        {link && <h3><Link to={'/docs/category'+link}>{title}</Link></h3>}
+        {link && <h3><Link to={'/docs'+link}>{title}</Link></h3>}
         {link === '' && <h3>{title}</h3>}
         <p>{description}</p>
       </div>

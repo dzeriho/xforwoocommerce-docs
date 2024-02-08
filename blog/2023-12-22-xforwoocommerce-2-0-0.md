@@ -9,7 +9,7 @@ authors:
 tags: [woocommerce, xforwoocommerce, ecommerce, wordpress, docs]
 ---
 
-**XforWooCommerce 2.0.2 - 12/22/2023 Released**
+### XforWooCommerce 2.0.2 - 12/22/2023 Released
 
 The changes made in this update are large. We belive in these new settings and principles as they will make room for more progress.
 

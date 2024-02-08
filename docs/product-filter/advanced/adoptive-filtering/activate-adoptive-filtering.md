@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to turn ON the Adoptive Filtering?
+# How to activate the adoptive filtering?
 
 Each preset can have it's own adoptive filtering settings. This means that, if you use perhaps multiple filter presets for categories, you will be able to set some of those to use the adoptive filtering and some of those not to your liking.
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# On Top
+# On top
 
 ## On top integration
 

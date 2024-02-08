@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Actions and Hooks
+# Actions and hooks
 
 Usual widget sidebar integration doesn't work for you? With the custom hooked display action you can get more complex results. One of the most favorite one is the so called "Filter on Top". This means the filter will be above your products.
 

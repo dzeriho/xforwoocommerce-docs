@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Display and Styles
+# Display and styles
 
 ### Common display and style options
 

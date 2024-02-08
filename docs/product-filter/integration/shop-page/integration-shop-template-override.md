@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Template Overrides
+# Template overrides
 
 This is the third option on how you can display the Product Filter in your Shop. This is more a legacy option and you shouldn't really use it, but there's nothing wrong with it.
 

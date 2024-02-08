@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Actions and Hooks
+# Actions and hooks
 
 This integration is also possible for custom pages. But, it is very advanced, and we'll not cover it here. Neither will our support.
 
