@@ -4,9 +4,11 @@ title: FAQ
 
 # Frequently asked questions
 
-### Q: Where's my plugin zip archive?
+### Q: Where's my plugin zip arch**A:****A:** Any items you purchase from Envato Market CodeCanyon you can find here https://codecanyon.net/downloads in your CodeCanyon Downloads section. There you can download any plugin you've purchased including ours.
 
-**A:** Any items you purchase from Envato Market CodeCanyon you can find here https://codecanyon.net/downloads in your CodeCanyon Downloads section. There you can download any plugin archive you've purchased including ours. Make sure you're using the plugin archive, as sometimes you download the complete package and the plugin archive needs to be extracted from it. If you have troubles please use our Help Center here https://help.xforwoocommerce.com/my-support-tickets/.
+### Q: When uploaded to my site it says that it's not a valid plugin zip archive?
+**A:** Make sure you're using the plugin archive, sometimes you download the complete package and the plugin archive needs to be extracted from it. So, unzip the full archive and upload the installable plugin zip archive from it. If you have issues please use our Help Center here https://help.xforwoocommerce.com/my-support-tickets/.
+ts/.
 
 ### Q: Can I contribute to the XforWooCommerce Docs with my own help articles?
 

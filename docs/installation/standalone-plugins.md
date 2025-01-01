@@ -18,8 +18,4 @@ XforWooCommerce standalone plugins install regularly like any other WordPress pl
 8. WordPress will upload and install the plugin from the file you provided. Once the installation is complete, you'll see a success message.
 9. To activate the plugin, click on the **Activate** link that appears after the installation is finished. This will enable the plugin's functionality on your website.
 
-Congratulations! You have successfully installed and activated XforWooCommerce plugin by uploading it manually.
-
-:::info
-**Now, you need to activate the installed plugin**. [Click here &rarr; Learn how to activate the plugin](how-to-activate-xforwoocommerce-plugins).
-:::
+Congratulations! You have successfully installed and activated an XforWooCommerce plugin!
