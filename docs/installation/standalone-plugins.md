@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Standalone plugins
+# Stand-alone plugins
 
-XforWooCommerce standalone plugins install regularly like any other WordPress plugins.
+XforWooCommerce stand-alone plugins are installed regularly like any other plugin for WordPress.
 
 ## How to install?
 

@@ -31,6 +31,24 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Share, Print and PDF',
+    link: '/share-print-pdf',
+    description: (
+      <>
+        Share, Print and PDF for WooCommerce. The ultimate sharing tool for your WooCommerce store.
+      </>
+    ),
+  },
+  {
+    title: 'Product Tabs',
+    link: '/product-tabs',
+    description: (
+      <>
+        Product tabs for WooCommerce. Add custom tabs to your WooCommerce product pages.
+      </>
+    ),
+  },
 ];
 
 function Feature({link, title, description}) {

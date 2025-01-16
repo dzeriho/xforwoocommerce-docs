@@ -17,10 +17,10 @@ ts/.
 
 **A:** Sure! That's awesome! Please visit our GitHub repository https://github.com/dzeriho/xforwoocommerce-docs and make your contribution. Thanks for getting involved!
 
-### Q: I feel like some help articles are missing?
-
-**A:** Yes, articles are there to be available from the first day. We're adding new ones every once in a while and if you need some topics covered, please do send us an email. You can also use our Help Center and submit your request, our support staff will assist you with XforWooCommerce items.
-
 ### Q: How can I get support for my item?
 
 **A:** Need pro help? Can’t find what you’re looking for? Submit your request here. Follow this link and visit our Help Center &rarr; https://help.xforwoocommerce.com/my-support-tickets Click **Login with Envato** and login with the account you've purchased the XforWooCommerce item. Once logged in, for the item you need support with, click **Submit ticket** from the table row. If your support has expired, click the **Renew support** and renew your support before making a new ticket.
+
+### Q: Where can I find the plugin settings pages?
+
+**A:** Depends on are you using XforWooCommerce package or the stand-alone plugins. If you use XforWooCommerce, navigate **WooCommerce>XforWooCommerce** page to access all plugins settings. If you use stand-alone plugins, then navigate **WooCommerce>Settings>Plugin** (e.g. Product Filter) to access the plugin settings page.
